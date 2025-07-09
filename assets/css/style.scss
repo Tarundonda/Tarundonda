@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom CSS below
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3 {
+  color: #283e4a;
+}
+
+a {
+  color: #0a66c2;
+}
